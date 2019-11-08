@@ -1,0 +1,70 @@
+2019-11-08 11:39:00,990  INFO [main] LogReports:21 - Anusha
+2019-11-08 11:56:02,752  INFO [main] LogReports:21 - Chrome is Started
+2019-11-08 11:56:09,959  INFO [main] LogReports:21 - file not found
+2019-11-08 11:57:43,915  INFO [main] LogReports:21 - Chrome is Started
+2019-11-08 11:59:55,014  INFO [main] LogReports:21 - Chrome is Started
+2019-11-08 12:02:59,417  INFO [main] LogReports:21 - Chrome is Started
+2019-11-08 12:12:22,592  INFO [main] LogReports:21 - IE is Started
+2019-11-08 12:12:27,521  INFO [TestNG-PoolService-0] LogReports:21 - Passed : Verifying Home Page Content :  Actual data : The Ninja Store Expected data : The Ninja Store
+2019-11-08 12:13:00,685  INFO [TestNG-PoolService-0] LogReports:21 - Selected Iphone Product
+2019-11-08 12:22:48,158  INFO [main] LogReports:21 - IE is Started
+2019-11-08 12:22:52,473  INFO [TestNG-PoolService-0] LogReports:21 - Passed : Verifying Home Page Content :  Actual data : The Ninja Store Expected data : The Ninja Store
+2019-11-08 12:23:25,616  INFO [TestNG-PoolService-0] LogReports:21 - Selected Iphone Product
+2019-11-08 12:23:28,873  INFO [TestNG-PoolService-0] LogReports:21 - Passed : Verifying availability stock :  Actual data : Availability: In Stock Expected data : Availability: In Stock
+2019-11-08 12:23:29,137  INFO [TestNG-PoolService-0] LogReports:21 - Passed : Verifying product price :  Actual data : $123.20 Expected data : $123.20
+2019-11-08 12:23:29,387  INFO [TestNG-PoolService-0] LogReports:21 - Passed : Verifying ex tax :  Actual data : Ex Tax: $101.00 Expected data : Ex Tax: $101.00
+2019-11-08 12:23:45,300  INFO [TestNG-PoolService-0] LogReports:21 - Passed : Verifying product description :  Actual data : iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email. Expected data : iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email.
+2019-11-08 12:23:45,301  INFO [TestNG-PoolService-0] LogReports:21 - Successfully selected and validate for first product
+2019-11-08 12:25:57,953  INFO [main] LogReports:21 - IE is Started
+2019-11-08 12:26:02,642  INFO [TestNG-PoolService-0] LogReports:21 - Passed : Verifying Home Page Content :  Actual data : The Ninja Store Expected data : The Ninja Store
+2019-11-08 12:26:35,704  INFO [TestNG-PoolService-0] LogReports:21 - Selected Iphone Product
+2019-11-08 12:26:38,818  INFO [TestNG-PoolService-0] LogReports:21 - Passed : Verifying availability stock :  Actual data : Availability: In Stock Expected data : Availability: In Stock
+2019-11-08 12:26:39,110  INFO [TestNG-PoolService-0] LogReports:21 - Passed : Verifying product price :  Actual data : $123.20 Expected data : $123.20
+2019-11-08 12:26:39,403  INFO [TestNG-PoolService-0] LogReports:21 - Passed : Verifying ex tax :  Actual data : Ex Tax: $101.00 Expected data : Ex Tax: $101.00
+2019-11-08 12:26:55,328  INFO [TestNG-PoolService-0] LogReports:21 - Passed : Verifying product description :  Actual data : iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email. Expected data : iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email.
+2019-11-08 12:26:56,211  INFO [TestNG-PoolService-0] LogReports:21 - Successfully selected and validate for first product
+2019-11-08 12:28:58,686  INFO [main] LogReports:21 - IE is Started
+2019-11-08 12:29:03,138  INFO [TestNG-PoolService-0] LogReports:21 - Passed : Verifying Home Page Content :  Actual data : The Ninja Store Expected data : The Ninja Store
+2019-11-08 12:29:36,309  INFO [TestNG-PoolService-0] LogReports:21 - Selected Iphone Product
+2019-11-08 12:29:39,471  INFO [TestNG-PoolService-0] LogReports:21 - Passed : Verifying availability stock :  Actual data : Availability: In Stock Expected data : Availability: In Stock
+2019-11-08 12:29:39,731  INFO [TestNG-PoolService-0] LogReports:21 - Passed : Verifying product price :  Actual data : $123.20 Expected data : $123.20
+2019-11-08 12:29:39,999  INFO [TestNG-PoolService-0] LogReports:21 - Passed : Verifying ex tax :  Actual data : Ex Tax: $101.00 Expected data : Ex Tax: $101.00
+2019-11-08 12:29:55,916  INFO [TestNG-PoolService-0] LogReports:21 - Passed : Verifying product description :  Actual data : iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email. Expected data : iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email.
+2019-11-08 12:29:56,674  INFO [TestNG-PoolService-0] LogReports:21 - Added product to cart
+2019-11-08 12:29:56,675  INFO [TestNG-PoolService-0] LogReports:21 - Successfully selected and validate for first product
+2019-11-08 12:38:37,085  INFO [main] LogReports:21 - IE is Started
+2019-11-08 12:39:40,123  INFO [TestNG-PoolService-0] LogReports:21 - Selected MacBook Air Product
+2019-11-08 12:46:05,970  INFO [main] LogReports:21 - IE is Started
+2019-11-08 12:48:57,922  INFO [main] LogReports:21 - IE is Started
+2019-11-08 12:49:36,597  INFO [main] LogReports:21 - IE is Started
+2019-11-08 12:50:56,807  INFO [TestNG-PoolService-0] LogReports:21 - Selected MacBook Air Product
+2019-11-08 12:50:59,936  INFO [TestNG-PoolService-0] LogReports:21 - Passed : Verifying availability stock :  Actual data : Availability: In Stock Expected data : Availability: In Stock
+2019-11-08 12:51:00,221  INFO [TestNG-PoolService-0] LogReports:21 - Passed : Verifying product price :  Actual data : $1,202.00 Expected data : $1,202.00
+2019-11-08 12:51:00,514  INFO [TestNG-PoolService-0] LogReports:21 - Passed : Verifying ex tax :  Actual data : Ex Tax: $1,000.00 Expected data : Ex Tax: $1,000.00
+2019-11-08 12:51:16,419  INFO [TestNG-PoolService-0] LogReports:21 - Passed : Verifying product description :  Actual data : MacBook Air is ultrathin, ultraportable, and ultra unlike anything else. But you don’t lose inches and pounds overnight. It’s the result of rethinking conventions. Of multiple wireless innovations. And of breakthrough design. With MacBook Air, mobile computing suddenly has a new standard. Expected data : MacBook Air is ultrathin, ultraportable, and ultra unlike anything else. But you don’t lose inches and pounds overnight. It’s the result of rethinking conventions. Of multiple wireless innovations. And of breakthrough design. With MacBook Air, mobile computing suddenly has a new standard.
+2019-11-08 12:51:17,169  INFO [TestNG-PoolService-0] LogReports:21 - Added product to cart
+2019-11-08 12:51:17,170  INFO [TestNG-PoolService-0] LogReports:21 - Successfully selected and validate for second product
+2019-11-08 12:58:30,813  INFO [main] LogReports:21 - IE is Started
+2019-11-08 12:58:36,173  INFO [TestNG-PoolService-0] LogReports:21 - Passed : Verifying Home Page Content :  Actual data : The Ninja Store Expected data : The Ninja Store
+2019-11-08 12:58:36,174  INFO [TestNG-PoolService-0] LogReports:21 - Successfully Validated Home Page
+2019-11-08 12:58:36,174  INFO [TestNG-PoolService-0] LogReports:21 - ******************
+2019-11-08 12:59:09,452  INFO [TestNG-PoolService-0] LogReports:21 - Selected Iphone Product
+2019-11-08 12:59:12,963  INFO [TestNG-PoolService-0] LogReports:21 - Passed : Verifying availability stock :  Actual data : Availability: In Stock Expected data : Availability: In Stock
+2019-11-08 12:59:48,612  INFO [main] LogReports:21 - IE is Started
+2019-11-08 12:59:53,498  INFO [TestNG-PoolService-0] LogReports:21 - Passed : Verifying Home Page Content :  Actual data : The Ninja Store Expected data : The Ninja Store
+2019-11-08 12:59:53,499  INFO [TestNG-PoolService-0] LogReports:21 - Successfully Validated Home Page
+2019-11-08 12:59:53,500  INFO [TestNG-PoolService-0] LogReports:21 - ******************
+2019-11-08 13:00:26,499  INFO [TestNG-PoolService-0] LogReports:21 - Selected Iphone Product
+2019-11-08 13:00:29,637  INFO [TestNG-PoolService-0] LogReports:21 - Passed : Verifying availability stock :  Actual data : Availability: In Stock Expected data : Availability: In Stock
+2019-11-08 13:27:13,531  INFO [main] LogReports:21 - IE is Started
+2019-11-08 13:27:18,599  INFO [TestNG-PoolService-0] LogReports:21 - Passed : Verifying Home Page Content :  Actual data : The Ninja Store Expected data : The Ninja Store
+2019-11-08 13:27:18,600  INFO [TestNG-PoolService-0] LogReports:21 - Successfully Validated Home Page
+2019-11-08 13:27:18,601  INFO [TestNG-PoolService-0] LogReports:21 - ******************
+2019-11-08 13:27:51,649  INFO [TestNG-PoolService-0] LogReports:21 - Selected Iphone Product
+2019-11-08 13:27:54,801  INFO [TestNG-PoolService-0] LogReports:21 - Passed : Verifying availability stock :  Actual data : Availability: In Stock Expected data : Availability: In Stock
+2019-11-08 14:08:53,167  INFO [main] LogReports:21 - IE is Started
+2019-11-08 14:09:30,891  INFO [TestNG-PoolService-0] LogReports:21 - Selected Chairs as Negative Product
+2019-11-08 14:09:31,181  INFO [TestNG-PoolService-0] LogReports:21 - failed : Verifying after removing grand total :  Actual data :  Expected data : Your shopping cart is empty!
+2019-11-08 14:30:25,571  INFO [main] LogReports:21 - IE is Started
+2019-11-08 14:31:04,179  INFO [TestNG-PoolService-0] LogReports:21 - Selected Chairs as Negative Product
+2019-11-08 14:31:04,434  INFO [TestNG-PoolService-0] LogReports:21 - failed : Verifying after removing grand total :  Actual data :  Expected data : Your shopping cart is empty!
